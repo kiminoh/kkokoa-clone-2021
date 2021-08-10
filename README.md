@@ -1,3 +1,4 @@
 # kokoa clone 2021
 
-how do you stuy programming?
+
+it's gonna more difficult than i thought but i'll do my best
